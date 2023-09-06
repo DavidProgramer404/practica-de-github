@@ -1,4 +1,4 @@
-<h1> Configurar uun repositorio nuevo desde termnial </h1>
+<h1> Configurar un repositorio nuevo desde termnial </h1>
 <ol>
     <li> git init </li> <!-- Inicializa un respositorio vacio en nuetra carpeta-->
     <li> git add </li> <!-- Agrega archivo nuevos y con cambios a la version actual-->
